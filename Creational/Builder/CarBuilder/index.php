@@ -9,3 +9,10 @@ $direction = new Direction();
 
 $car = $direction->buildCar($carBuilder);
 
+// create Truck
+
+$truckBuilder = new \DesignPatternPHP\Creational\Builder\CarBuilder\TruckBuilder();
+$truck = $direction->buildCar($truckBuilder);
+
+
+
