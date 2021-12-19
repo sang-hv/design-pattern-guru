@@ -43,31 +43,31 @@ Tất cả các framework cho ứng dụng web như Laravel, Codeigniter… đ�
 
 Hệ thống các design pattern được chia thành 3 nhóm: nhóm Creational, nhóm Structural và nhóm Behavioral.
 
-- [**Creational Pattern**](./creational-pattern) cung cấp các cơ chế tạo đối tượng để tăng tính linh hoạt và tái sử dụng mã hiện có.
-    + [**Factory Method**](./creational-pattern/factory-method)
-    + [**Abstract Factory**](./creational-pattern/abstract-factory)
-    + [**Builder**](./creational-pattern/builder)
-    + [**Prototype**](./creational-pattern/prototype)
-    + [**Singleton**](./creational-pattern/singleton)
-- [**Structural Pattern**](./structural-pattern) giải thích cách tập hợp các đối tượng và lớp thành các cấu trúc lớn hơn, trong khi vẫn giữ cho cấu trúc linh hoạt và hiệu quả.
-    + [**Adapter**](./structural-pattern/adapter)
-    + [**Bridge**](./structural-pattern/bridge)
-    + [**Composite**](./structural-pattern/composite)
-    + [**Decorator**](./structural-pattern/decorator)
-    + [**Facade**](./structural-pattern/facade)
-    + [**Flyweight**](./structural-pattern/flyweight)
-    + [**Proxy**](./structural-pattern/proxy)
-- [**Behavioral Pattern**](./behavioral-pattern) quan tâm đến việc giao tiếp hiệu quả và phân công nhiệm vụ giữa các đối tượng.
-    + [**Chain Of Responsibility**](./behavioral-pattern/chain-of-responsibility)
-    + [**Command**](./behavioral-pattern/command)
-    + [**Iterator**](./behavioral-pattern/iterator)
-    + [**Mediator**](./behavioral-pattern/mediator)
-    + [**Memento**](./behavioral-pattern/memento)
-    + [**Observer**](./behavioral-pattern/observer)
-    + [**State**](./behavioral-pattern/state)
-    + [**Strategy**](./behavioral-pattern/strategy)
-    + [**Template Method**](./behavioral-pattern/template-method)
-    + [**Visitor**](./behavioral-pattern/visitor)
+- [**Creational Pattern**](./Creational) cung cấp các cơ chế tạo đối tượng để tăng tính linh hoạt và tái sử dụng mã hiện có.
+    + [**Factory Method**](Creational/FactoryMethod)
+    + [**Abstract Factory**](Creational/AbstractFactory)
+    + [**Builder**](Creational/Builder)
+    + [**Prototype**](Creational/Prototype)
+    + [**Singleton**](Creational/Singleton)
+- [**Structural Pattern**](./Structural) giải thích cách tập hợp các đối tượng và lớp thành các cấu trúc lớn hơn, trong khi vẫn giữ cho cấu trúc linh hoạt và hiệu quả.
+    + [**Adapter**](Structural/Adapter)
+    + [**Bridge**](Structural/Bridge)
+    + [**Composite**](Structural/Composite)
+    + [**Decorator**](Structural/Decorator)
+    + [**Facade**](Structural/Facade)
+    + [**Flyweight**](Structural/Flyweight)
+    + [**Proxy**](Structural/Proxy)
+- [**Behavioral Pattern**](./Behavioral) quan tâm đến việc giao tiếp hiệu quả và phân công nhiệm vụ giữa các đối tượng.
+    + [**Chain Of Responsibility**](Behavioral/ChainOfResponsibility)
+    + [**Command**](Behavioral/Command)
+    + [**Iterator**](Behavioral/Iterator)
+    + [**Mediator**](Behavioral/Mediator)
+    + [**Memento**](Behavioral/Memento)
+    + [**Observer**](Behavioral/Observer)
+    + [**State**](Behavioral/State)
+    + [**Strategy**](Behavioral/Strategy)
+    + [**Template Method**](Behavioral/TemplateMethod)
+    + [**Visitor**](Behavioral/Visitor)
 
 # Code Example
 
